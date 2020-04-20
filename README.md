@@ -4,7 +4,9 @@ XOR – операція, яка приймає значення "істина" 
 <img src="https://github.com/ppc-ntu-khpi/identifikatori-tipi-35-code-ivan/blob/master/xor.png" width="100%"/>
 
 Шифрування на основі операції XOR використовує властивість
->*(a XOR k) XOR k = a*
+
+*(a XOR k) XOR k = a*
+
 де *k* - виступає в ролі ключа.
 
 ---
